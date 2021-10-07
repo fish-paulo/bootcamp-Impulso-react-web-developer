@@ -1,0 +1,15 @@
+introduçao a logica de programaçao:
+
+inicio, declaraçao da variaveis, entrada de dados, processamento, saida, fim
+
+Software: flowgorithm, disponivel apenas no windows.
+
+variaveis: nao tem espaco em branco, começar com uma letra, e evitar acentos.
+
+tipos de variaveis: inteiro, real, caractere, logico
+
+linguagens alto nivel e baixo nivel; liguagens compiladas e interpretadas
+
+matriz: coleçao de variaveis do mesmo tipo
+
+vetor: matrizes de uma só dimensao 

@@ -1,0 +1,28 @@
+algoritimos são utilizados para manipular dados nas estruturas de varias formas, como excluir, procura e ordenar dados ou inserir.
+
+operações basicas: inserir dados, excluir dados, localizar um elemento, percorrer todo os dados, classificar, que se resume em colocar os items em uma
+
+determinada ordem
+
+principais estrutura de dados: vetores e matrizes, registro, lista, pilha, fila, arvore, tabela hash, grafos.
+
+diferça entre listas e arrays: lista possui o tamanho ajustavel e array tamanho fixo
+
+tipos de listas : ligadas e duplamente ligadas.
+
+lista flexivel e variavel
+
+lista duplamente ligada é bidirecional. busca reversa e normal.
+
+Pilhas: e uma estrutura que serve como uma coleçao de elementos, permite acesso somente a um item do dado armazenado.
+acesso retrito, somente um por vez. LIFO OU UEPS / FIFO OU PEPS 
+Ultimo que entra primeiro que saí. o primeiro elemento a ser retirado é o utimo a ser inserido.
+
+PEPS primeiro que entra primeiro que saí.
+
+arvores: objetos organizados de forma hieraquica, elemento raiz fica no topo da arvore, subelementos sao chamados de nós ou folhas.
+
+tabela hash: estrutura especial. pemite a associaçao de valores a chaves: valores é a posiçao ou indice onde o elemento se encontra.
+chave: parte da informçao que compoe o elmento
+
+grafos: estruturas nao lineares
