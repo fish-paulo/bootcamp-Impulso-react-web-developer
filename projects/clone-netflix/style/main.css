@@ -64,14 +64,13 @@ header .container{
 
 .filme-pricipal .descricao{
     margin-bottom: 40px;
-    max-width: 900px;
-    text-align: justify;
     margin-top: 10px;
+    text-align: justify;
 }
 
 .titulo{
     margin-top: 15%;
-    font-size: 40px;
+    font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -97,3 +96,16 @@ header .container{
     margin-right: 8px;
 }
 
+.container{
+    margin-left: 20px;
+}
+
+.filme-pricipal .container{
+    width: 40%;
+}
+
+.box-filme{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
