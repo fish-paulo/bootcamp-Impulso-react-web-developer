@@ -6,6 +6,11 @@
         
     }
 
+    .menu-icons{
+        
+        margin-left: 0;
+    }
+
     .botao {
         margin-top: 5px;
         width: 300px;
