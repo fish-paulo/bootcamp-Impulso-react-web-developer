@@ -1,5 +1,0 @@
-Trabalhando com componentes em React.
-- Desenvolvendo o hello world no app.js
-- Primeiros passos na estrutura de um componente.
-- Importando um componente.
-- Preparando um componente Dinâmico.
